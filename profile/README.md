@@ -1,4 +1,4 @@
-# Welcome to KelimaTeam :house_with_garden:
+# Welcome to Kelima :house_with_garden:
 
 ## :sparkles: Consult, Design, Deliver - Our Mantra
 
