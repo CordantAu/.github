@@ -13,7 +13,3 @@ We're a bunch of tech enthusiasts, dreamers, and doers committed to molding the 
 We're more than just a team; we're a tech family. Our superheroes have been joining forces for over 15 years on projects big and small. We believe in the power of 'we' and know that our collective strength is our greatest asset.
 
 ---
-
-<center><video src='https://kelima.com.au/videos/kelima.mp4' width=50%>Kelima.mp4</video></center>
-
----
